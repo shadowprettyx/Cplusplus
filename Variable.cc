@@ -1,5 +1,5 @@
 // переменные
-
+#include <iostream>
 int main() //перезапись переменных
 {
      int age = 22; //тут age = 22
